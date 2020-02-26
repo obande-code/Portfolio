@@ -13,6 +13,7 @@
 .card{
  max-width: 200px;
  margin-top: 5rem;
+ margin-left: 2rem;
  padding: 25px;
 
  transition: transform 0.5s ease;
@@ -37,10 +38,10 @@
   display: flex;
   flex-flow: row;
   align-items: center;
-  justify-content: space-between;
+  justify-content: center;
   flex-wrap: wrap;
   max-width: 1000px;
-  margin: 20px auto 0;
+  margin: 40px auto 0;
 }
 
 footer{
